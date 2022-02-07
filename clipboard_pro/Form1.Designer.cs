@@ -41,10 +41,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(168, 47);
+            this.button1.Location = new System.Drawing.Point(224, 58);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(208, 28);
+            this.button1.Size = new System.Drawing.Size(183, 28);
             this.button1.TabIndex = 0;
             this.button1.Text = "Copy to Clipboard";
             this.button1.UseVisualStyleBackColor = true;
@@ -52,27 +52,27 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(104, 15);
+            this.textBox1.Location = new System.Drawing.Point(168, 13);
             this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(337, 22);
+            this.textBox1.Size = new System.Drawing.Size(273, 22);
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "Hi;I\'m first clipboard and i\'m happy!";
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(104, 100);
+            this.textBox2.Location = new System.Drawing.Point(168, 106);
             this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(337, 22);
+            this.textBox2.Size = new System.Drawing.Size(273, 22);
             this.textBox2.TabIndex = 3;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(168, 132);
+            this.button2.Location = new System.Drawing.Point(224, 150);
             this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(208, 28);
+            this.button2.Size = new System.Drawing.Size(183, 28);
             this.button2.TabIndex = 2;
             this.button2.Text = "Read from Clipboard";
             this.button2.UseVisualStyleBackColor = true;
